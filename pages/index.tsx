@@ -4,7 +4,7 @@ const IndexPage = () => {
   return (
     <div>IndexPage add new
     <h1>Hi</h1>
-    </div>
+    </div
   )
 }
 
